@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    border: 2px solid black none ;
+width: 1000px;
+height: 2800px;
+background-color: rgb(249, 251, 250);
+position: relative;
+left: 400px;
+top: 20px;
+flex-wrap: wrap;
+display:inline-block;
+}
+.box{
+    padding: 10px;
+    font-size: 13px;
+    position: absolute;
+height: 12px;
+left: 3.51%;
+right: 76.97%;
+top: 18px;
+font-weight: 100;
+flex-wrap: wrap;
+}
+UL{
+    display: flex;
+}
+.soz{
+    padding: 7px;
+color: black;
+list-style: none;
+}
+.box1{
+    text-align: center;
+    position:relative;
+    top: 20px;
+    font-size:x-large   ;
+}
+a{
+    display: flex;
+    text-decoration: none ;
+    color: black;
+}
+.box2{
+    position: absolute;
+    height: 12px;
+    left: 3.82%;
+    right: 69.99%;
+    top: 1px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1.67px;
+    
+}
+.LI{
+    text-align: end;
+    position: relative;
+    left: 600px;
+padding: 7px;
+font-size: 13px ;
+list-style: none;
+}
+.boy{
+    position: relative;
+    left: 630px;
+    bottom: 2px;
+    border: 1px solid black none;
+    background-color: black;
+    height: 30px;
+    width: 50px;
+    color: aliceblue;
+    padding: 5px;
+
+}
+.img{
+    width: 1000px;
+    position: relative;
+right: 2px;
+top: 6px;
+height: 530px;
+display: inline-block;
+}
+.orta{
+    Font: Roboto;
+
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    color: aliceblue;
+    font-size: 40px;
+     
+}
+.plar{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    bottom: 400px;
+    font-size: 20px;
+}
+.pone{
+    position: relative;
+    border: 2px solid white;
+    padding: 10px;
+width: 150px;
+bottom: 470px;
+color: white;
+font-size: 20px;
+left: 100px;
+display: block;
+margin: 130px;
+text-align: center;
+
+}
+.img__twe{
+    width: 49%;
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    padding: 5px;
+    bottom: 385px;
+height: 410px;
+}
+.h2__bosh{
+    position: relative;
+    bottom: 540px;
+    left: 190px;
+    font-weight: 900;
+    color: aliceblue;
+}
+.p__teqs{
+    position: relative;
+    bottom: 530px;
+    left: 183px;
+    color: aliceblue;
+}
+.p__sotibolish{
+    border: 2px solid black none;
+    position: relative;
+    bottom: 550px;
+    display: inline-block;
+    margin: 50px;
+    left: 100px;
+    color: aliceblue;
+}
+.h2__boshtwe{
+    position: relative;
+    bottom: 720px;
+    left: 700px;
+    font-weight: 900;
+    color: rgb(252, 252, 252);
+}
+.P__text{
+    position: relative;
+    bottom: 710px;
+    left: 640px;
+    color: rgb(251, 251, 251);
+}
+.p__boy{
+    border: 2px solid black none;
+    position: relative;
+    bottom: 738px;
+    display: inline-block;
+    margin: 50px;
+    left: 580px;
+    color: rgb(253, 253, 253);
+}
+.box5{
+    display: inline-block;
+    border: 2px solid beige none;
+    background-color: black;
+    width: 1000px;
+    position: relative;
+    bottom: 740px;
+    height: 600px;
+}
+.img__pomodo{
+    position: relative;
+    left: 280px;
+    top: 100px;
+}
+.h1__boshqismi{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+    font-size: 35px;
+    font-weight: 900;
+}
+.p__texttwe{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 17px;
+}
+.img__nur{
+    width: 1000px;
+height: 470px;
+position: relative;
+bottom: 724px;
+}
+.p_textwe{
+    font-size: 35px;
+font-weight: 900;
+color: aliceblue;
+position: relative;
+bottom: 1010px;
+text-align: center;
+}
+.P__sotol{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    margin: 50px;
+    padding: 5px;
+    border: 2px solid rgb(248, 246, 246);
+    bottom: 1040px;
+    color: aliceblue;
+    left: 260px;
+    font-weight:bolder;
+    font-size: 19px;
+}
+.img_surat{
+    width: 1000px;
+position: relative;
+bottom: 930px;
+display: block;
+}
+.box7{
+    display: block;
+}
+.h2__bos{
+    position: relative;
+    text-align: center;
+    bottom: 1120px;
+    left: 100px;
+    font-weight: bold;
+}
+.p__textre{
+    
+    position: relative;
+    bottom: 1105px;
+    left: 505px;
+    font-size: 12px;
+}
+.img_img{
+    width: 1000px;
+    position: relative;
+    bottom: 950px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
